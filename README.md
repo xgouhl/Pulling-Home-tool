@@ -12,7 +12,7 @@ This is the cracked Version of the Pulling Home tool from quiexr42
 Tool is not opening?
 
 Solution 1
- - run as addmin
+ - run as admin
 
 Solution 2
  - Restart youre pc
